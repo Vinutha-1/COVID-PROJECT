@@ -1,0 +1,1 @@
+This project demonstrates the power of SQL for data extraction and analysis, and Tableau for storytelling through visualization. By integrating real-world data with database tools and BI platforms, i was able to uncover key insights into the global COVID-19 pandemic — from infection rates to vaccine distribution.
